@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bloqueur Agenda</string>
+    <string name="service_description">Détecte quelle appli s\'ouvre pour la bloquer pendant tes créneaux de travail de l\'agenda. Rien n\'est lu ni envoyé.</string>
+</resources>
